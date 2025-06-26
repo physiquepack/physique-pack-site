@@ -85,4 +85,42 @@ Website for Physique Pack fitness kits
     <a href="#contact">Contact</a>
   </nav>
   <section id="kits">
-    <h2>Choose Your Transformation Kit</h2
+    <h2>Choose Your Transformation Kit</h2>
+    <div class="kits">
+      <div class="kit">
+        <h3>Shred Pack</h3>
+        <p>Burn fat and reveal lean muscle. Includes whey, fat burner, and HIIT plan.</p>
+        <button class="button">Buy Now - ₹1,999</button>
+      </div>
+      <div class="kit">
+        <h3>Bulk Beast</h3>
+        <p>Build size and strength. Includes mass gainer, creatine, and muscle diet plan.</p>
+        <button class="button">Buy Now - ₹2,999</button>
+      </div>
+      <div class="kit">
+        <h3>Home Hero</h3>
+        <p>Train at home. Includes resistance band, whey, and bodyweight program.</p>
+        <button class="button">Buy Now - ₹1,499</button>
+      </div>
+      <div class="kit">
+        <h3>Veg Pro</h3>
+        <p>Muscle building for vegetarians. Includes plant protein, B12, and custom veg plan.</p>
+        <button class="button">Buy Now - ₹2,499</button>
+      </div>
+    </div>
+  </section>
+  <section id="learn">
+    <h2>Learn More</h2>
+    <p>Get diet tips, workout guidance, and transformation stories from real users.</p>
+    <button class="button">Read Articles</button>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions or want to collaborate? Reach us via WhatsApp or Instagram.</p>
+    <button class="button">Message Now</button>
+  </section>
+  <footer>
+    <p>&copy; 2025 Physique Pack. All rights reserved.</p>
+  </footer>
+</body>
+</html>
